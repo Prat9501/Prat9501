@@ -17,3 +17,5 @@ A strong believer in **Karma** and never looses **Hope** :innocent:, loves **Cri
 **Connect me with** :hand: :point_right: &ensp;[![](https://github.com/Prat9501/Prat9501/blob/master/icons/github-24.png)](https://github.com/Prat9501) &ensp;[![](https://github.com/Prat9501/Prat9501/blob/master/icons/skype-24.png)](https://join.skype.com/invite/YMq9Drjbfddr) &ensp;[![](https://github.com/Prat9501/Prat9501/blob/master/icons/gmail-24.png)](mailto:prateekg.9501@gmail.com) &ensp;[![](https://github.com/Prat9501/Prat9501/blob/master/icons/linkedin-24.png)](https://www.linkedin.com/in/prateek-gupta-6057a2a3/) &ensp;[![](https://github.com/Prat9501/Prat9501/blob/master/icons/facebook-24.png)](https://www.facebook.com/prateek.gupta.31149359) 
 
 **Visit for Resume:** [http://www.prateekresume.xyz/](http://www.prateekresume.xyz/)
+
+*If you like this, leave a :star: to this **[repo](https://github.com/Prat9501/Prat9501)**.*
