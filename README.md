@@ -18,4 +18,3 @@ A strong believer in **Karma** and never looses **Hope** :innocent:, loves **Cri
 
 <br>
 <h2 align="center">Connect me with :hand:</h2><br>
-[![](icons/email-16.png)]
