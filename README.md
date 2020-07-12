@@ -16,7 +16,7 @@ Currently, actively contributing to my **[Github](https://github.com/Prat9501?ta
 
 A strong believer in **Karma** and never looses **Hope** :innocent:, loves **Cricket** and fond of **Electro Music** :notes:.
 
-<br>
+<!-- <br>
 <h2 align="center">Connect me with :hand:</h2>
-<br>
+<br> -->
 ![](icons/github.png)
