@@ -19,4 +19,4 @@ A strong believer in **Karma** and never looses **Hope** :innocent:, loves **Cri
 <br>
 <h2 align="center">Connect me with :hand:</h2>
 <br>
-[![](https://github.com/Prat9501/Prat9501/blob/master/icons/github.png)(https://github.com/Prat9501)] [![](https://github.com/Prat9501/Prat9501/blob/master/icons/email-16.png)(mailto:prateekg.9501@gmail.com)]
+![](icons/github.png)
