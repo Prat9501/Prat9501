@@ -1,5 +1,5 @@
 ### Hello :wave:
-**Hope you are doing great!!** :computer: <br> I'm **[Prateek Gupta](https://www.linkedin.com/in/prateek-gupta-6057a2a3/)** :man: :virgo:, Kickstarted my journey :running_man: as a **Software Engineer** three years back. Till date founding myself attracted towards learning new technologies and knowing big tech companies :office: architectures.<br>
+**Hope you are doing great!!** :computer: <br> I'm **[Prateek Gupta](https://www.linkedin.com/in/prateek-gupta-6057a2a3/)** :man: :virgo:, Kickstarted my journey :running_man: as a **Software Engineer** four years back. Till date founding myself attracted towards learning new technologies and knowing big tech companies :office: architectures.<br>
 Currently, actively contributing to my **[Github](https://github.com/Prat9501?tab=repositories)** and looking forward to contribute :open_hands: in open source projects. Utilizing this **lockdown** :lock: building and acquiring new skills. 
 
 
